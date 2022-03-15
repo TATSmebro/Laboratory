@@ -1,3 +1,3 @@
-# Py
+# Lab
 
-Personal projects related to Python
+Laboratory projects related to Python
