@@ -1,3 +1,3 @@
 # Lab
 
-Laboratory projects related to Python
+Laboratory projects during College
